@@ -1,0 +1,18 @@
+.card{
+  margin: 0.75rem;
+  border: none;
+  box-shadow: 10px 10px 10px rgba(85, 85, 85, 0.425);
+}
+
+.card-img-top{
+  margin-top: 1rem;
+}
+
+.card-text {
+  margin-bottom: 0.3rem;
+}
+
+.cardButton {
+  display: flex;
+  justify-content: right;
+}

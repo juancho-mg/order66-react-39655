@@ -1,0 +1,10 @@
+.btnCartWidget {
+  padding: 3px 12px;
+}
+
+.cartBadge {
+  background-color: #ff0000;
+  margin-right: 5px;
+  border-radius: 50%;
+  }
+
